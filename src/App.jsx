@@ -11,6 +11,7 @@ import Contact from './components/ContactUs'
 import ContactUs from './components/ContactUs';
 import Strengths from './components/Strengths';
 import Services from './components/Services';
+import Missionvision from './components/Missionvision'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -18,7 +19,9 @@ function App() {
     <>
     <Navbar/>
     <Slideshow/>
+    <Missionvision/>
     <Services/>
+  
     <OurProjects/>
     <Strengths/>
     <People/>
