@@ -55,7 +55,7 @@ function Navbar() {
   return (
     <nav className="bg-gray-800 p-4 fixed top-0 left-0 w-full z-10">
       <div className="container mx-auto flex justify-between items-center">
-        <div className="text-white font-bold text-xl">FALODI CONSTRUCTIONS INDORE</div>
+        <div className="text-white font-bold text-xl">Phaloudi Constructions and Infrastructure Pvt Ltd.</div>
         
         {/* Hamburger Menu for Smaller Screens */}
         <div className="md:hidden">
