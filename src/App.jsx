@@ -21,7 +21,6 @@ function App() {
     <Slideshow/>
     <Missionvision/>
     <Services/>
-  
     <OurProjects/>
     <Strengths/>
     <People/>
